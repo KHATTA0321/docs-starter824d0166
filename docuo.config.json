@@ -8,11 +8,14 @@
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "Documentation",
           "position": "left"
         }
-      ]
+      ],
+      "iconRedirectUrl": "https://www.youtube.com/"
     },
     "footer": {
       "logo": "image/logo.png",
